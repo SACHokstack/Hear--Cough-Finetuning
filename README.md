@@ -4,6 +4,10 @@
 (Entry for MedGemma Impact Challenge)
 
 This project uses Google's **HeAR** model (frozen) to detect tuberculosis from cough sounds.
+### Demo
+The live link for the project can be found here https://big-tb6.vercel.app/
+The video demo can be found here https://youtu.be/ubBDRxCwaeE
+The live working app can be found here https://big-tb6.vercel.app/
 
 ### What we did (the novel part)
 
